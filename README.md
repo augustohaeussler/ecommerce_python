@@ -4,7 +4,7 @@ Bienvenidos a nuestro ecommerce con Python espero este código sirva de gran apo
 
 # explicacion
 
-Para que el proyecto funcione deben de levantar un servidor co Django
+Para que el proyecto funcione deben de levantar un servidor co Django más información en el siguiente enlace: https://developer.mozilla.org/es/docs/Learn/Server-side/Django/development_environment
 
 # Dudas
 
